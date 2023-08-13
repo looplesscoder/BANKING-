@@ -1,1 +1,4 @@
-# BANKING-
+# BANKING
+
+## EDA 
+### Outlier Visualisation 
